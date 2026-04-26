@@ -1,7 +1,7 @@
 # 🚦 Feu Tricolore Intelligent avec Écran LCD
 
 <p align="center">
-  <img src="./tricolore.jpg" alt="Aperçu du projet Feu Tricolore" width="350">
+  <img src="./tricolore.jpg" alt="Aperçu du projet Feu Tricolore" width="300">
 </p>
 
 ### 📌 Description
