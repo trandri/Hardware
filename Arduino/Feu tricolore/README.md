@@ -1,7 +1,7 @@
 # 🚦 Feu Tricolore Intelligent avec Écran LCD
 
 <p align="center">
-  <img src="./tricolore.png" alt="Aperçu du projet Feu Tricolore" width="350">
+  <img src="./tricolore.jpg" alt="Aperçu du projet Feu Tricolore" width="350">
 </p>
 
 ### 📌 Description
@@ -21,4 +21,4 @@ Ce projet simule un feu de signalisation routière (Vert, Jaune, Rouge) piloté 
 ---
 
 ### 📁 Fichier du code
-* **Le code source se trouve ici:** [code source](./code.ino)
+* **Le code source se trouve ici:** [code](./code.ino)
