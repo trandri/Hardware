@@ -29,4 +29,4 @@ Le programme utilise une structure conditionnelle simple :
 ---
 
 ### 📁 Code
-* **Le code se trouve ici : 
+* **Le code se trouve ici : [code](./code.ino)
